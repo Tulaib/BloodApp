@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75357882860",
+    "project_id": "bloodbank-b64b5",
+    "storage_bucket": "bloodbank-b64b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75357882860:android:a39cba0eb3fa38d6c758c9",
+        "android_client_info": {
+          "package_name": "com.BloodApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75357882860-t056n8irer9bgoejfbocrbd2jfb40tlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdDKh8RBkGDXMvEciJ3CMVOhVJsk86sb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75357882860-t056n8irer9bgoejfbocrbd2jfb40tlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
